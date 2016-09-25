@@ -1,5 +1,7 @@
 # FeedReader Testing
 
+Technologies: Jasmine JS testing framework, Javascript.
+
 ## Testing Result
 
 When the index page is opened in a web browser, the test suite is also run. The running indicator and result is shown at the bottom of the page. Any fail test is shown in red.
