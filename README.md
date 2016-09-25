@@ -1,4 +1,4 @@
-# FeedReader Testing
+# FeedReader Testing Project: Udacity's Front End NanoDegree Program
 
 Technologies: Jasmine JS testing framework, Javascript.
 
